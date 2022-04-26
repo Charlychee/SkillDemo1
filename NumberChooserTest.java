@@ -4,6 +4,6 @@ import org.junit.*;
 public class NumberChooserTest {
     @Test
 	public void checkSeven() {
-	    assertEquals(8, NumberChooser.chooseSeven());
+	    assertEquals(7, NumberChooser.chooseSeven());
 	}
 }
